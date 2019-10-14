@@ -5,7 +5,6 @@
 # 1 数据集
 ## 1.1 自然语言处理数据集
 ### 1.1.1 诗歌生成
-使用GAN生成中国古典诗词：[GAN_Chinese_Poetry](https://github.com/CQU-MLG/GAN_Chinese_Poetry)
 
 ## 1.2 图像处理数据集
 ## 1.3 脑核磁共振图像数据集  
@@ -14,6 +13,7 @@
 
 # 2 自然语言处理相关模型
 ## 2.1 GAN用于诗歌生成  
+使用GAN生成中国古典诗词：[GAN_Chinese_Poetry](https://github.com/CQU-MLG/GAN_Chinese_Poetry)
 
 <br>
 
