@@ -19,7 +19,8 @@
 ## 3.1 超分辨率重建
 DDSR模型：[DDSR](https://github.com/JinglongDu/DDSR)  
 ## 3.2 图像分割
-全卷积网络模型实现及图片预处理： [FCN](https://github.com/CQU-MLG/FCN)
+全卷积网络模型实现及图片语义分割数据增强： [FCN](https://github.com/CQU-MLG/FCN)
+
 ## 3.3 目标检测  
 
 <br>
