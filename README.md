@@ -23,6 +23,7 @@ VDSR模型：[VDSR](https://github.com/CQU-MLG/VDSR-keras)
 全卷积网络模型实现及图片语义分割数据增强： [FCN](https://github.com/CQU-MLG/FCN)
 
 ## 3.3 目标检测  
+[人脸检测](https://github.com/zzxcoder/EvaluationFHEDN)
 
 <br>
 
