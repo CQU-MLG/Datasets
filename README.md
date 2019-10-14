@@ -19,6 +19,7 @@
 
 # 3 计算机视觉相关模型
 ## 3.1 超分辨率重建
+DDSR模型：[DDSR](https://github.com/JinglongDu/DDSR)  
 ## 3.2 图像分割
 ## 3.3 目标检测  
 
